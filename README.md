@@ -10,6 +10,6 @@
   
 ##### More information: [Official page](https://developer.android.com/topic/libraries/architecture/)
 
-###### Note: Follow - [x] TODOs
+###### Note: Follow TODOs
 
 ###### Contact [me](https://linktr.ee/MoeinDeveloper)
