@@ -1,18 +1,15 @@
 # SimpleAACApp
-#Simple example of AAC = Android architecture components!
 
-#In this example you will learn:
+## Simple example of AAC = Android architecture components!
 
-  #using Room,
+#### In this example you will learn:
+
+- [x] using Room,
+- [x] using LiveData
+- [x] using ViewModel
   
-  #using LiveData,
-  
-  #using ViewModel,
-  
-#More information:
-https://developer.android.com/topic/libraries/architecture/
+##### More information: [Official page](https://developer.android.com/topic/libraries/architecture/)
 
-#Note: Follow TODOs
+###### Note: Follow - [x] TODOs
 
-#Contact me:
-https://linktr.ee/MoeinDeveloper
+###### Contact [me](https://linktr.ee/MoeinDeveloper)
